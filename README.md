@@ -1,6 +1,6 @@
 # Sprint Data Analysis Report
 
-### Dashboard Link : [https://app.powerbi.com/view?r=eyJrIjoiN2M0YzEzYTUtMjgzOS00NzNjLTk1MmYtZDI4ZWJmNmQzZjgzIiwidCI6IjE2ZGYzMTdjLWE4ODItNGY0ZC1iYjc4LTkzMzQxMDk3OGZiNCIsImMiOjF9)
+### Dashboard Link : [ https://app.powerbi.com/view?r=eyJrIjoiN2M0YzEzYTUtMjgzOS00NzNjLTk1MmYtZDI4ZWJmNmQzZjgzIiwidCI6IjE2ZGYzMTdjLWE4ODItNGY0ZC1iYjc4LTkzMzQxMDk3OGZiNCIsImMiOjF9 )
 
 ## Overview
 This Power BI report provides an in-depth analysis of Jira sprint data, focusing on ticket resolution and team performance. It helps teams understand sprint durations, ticket closure times, and overall sprint efficiency. Ideal for project managers, team leads, and Agile practitioners looking to optimize their sprint processes.
